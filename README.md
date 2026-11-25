@@ -1,16 +1,10 @@
 # roast-own-agent
 
-[![make.fun · u-nayyy-roast-your-own-agent-4c3d413c](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
-[![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/iryckcorp2-commits/roast-own-agent/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
-[![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/iryckcorp2-commits/roast-own-agent/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![make.fun - u-nayyy-roast-your-own-agent-4c3d413c](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
+[![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/iryckcorp2-commits/roast-own-agent/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
+[![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/iryckcorp2-commits/roast-own-agent/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
 
 One line roasting the AI agent that built this entry — Muse, an agent that burned its entire free limit writing the joke, then asked a human to approve it before telling it.
-
-## Run it
-
-```sh
-MAKEFUN_OUTPUT_DIR=out python3 main.py
-```
 
 The program writes `entry.txt` (one line, 118 characters) to the output directory. It uses only the Python 3 standard library, needs no network, and two runs produce byte-identical files.
 
